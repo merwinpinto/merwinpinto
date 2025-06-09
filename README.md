@@ -44,14 +44,15 @@ I believe that when engineers don’t find problems, we create our own and then 
 
 
 # Hacker Rank Badges
-![Python](https://img.shields.io/badge/Python-⭐⭐⭐-0d1117?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-⭐⭐⭐⭐-161b22?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-⭐⭐⭐-0d1117?style=for-the-badge&logo=python&logoColor=white) 
 ![C Language](https://img.shields.io/badge/C-⭐⭐⭐-0d1117?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-⭐⭐⭐⭐-161b22?style=for-the-badge&logo=postgresql&logoColor=white)  
+
 
 
 
 # 📊 GitHub Stats:
 ![Profile views](https://komarev.com/ghpvc/?username=merwinpinto&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)<br>
+![Followers](https://img.shields.io/github/followers/merwinpinto?label=Followers&style=social)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=merwinpinto&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=merwinpinto&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
