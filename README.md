@@ -16,8 +16,6 @@ I believe that when engineers don’t find problems, we create our own and then 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 
 
-
-
 ## Python Libraries and Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -43,13 +41,16 @@ I believe that when engineers don’t find problems, we create our own and then 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-# Hacker Rank Badges
+## Hacker Rank Badges
 ![Python](https://img.shields.io/badge/Python-⭐⭐⭐-0d1117?style=for-the-badge&logo=python&logoColor=white) 
 ![C Language](https://img.shields.io/badge/C-⭐⭐⭐-0d1117?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-⭐⭐⭐⭐-161b22?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-
-
+## My Very Own Featured AI Counselling Project: Mercy AI
+<p align="center">
+  <b>Mercy AI</b> is an AI-powered mental health counseling assistant designed by me to give users an idea of what counseling is like. instead of taking a real course or session at first its always better for us to try what counselling sessions are about. It’s a user-friendly, interactive experience that helps break the initial barrier to mental wellness through conversational AI.<br><br>
+ BETA VERSION:  Click Here to access Project => <a href="https://mercy-ai.netlify.app" target="_blank">Visit Mercy AI</a>
+</p>
 
 # 📊 GitHub Stats:
 ![Profile views](https://komarev.com/ghpvc/?username=merwinpinto&label=Profile%20views&color=0e75b6&style=flat)
