@@ -35,7 +35,6 @@ I believe that when engineers don’t find problems, we create our own and then 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ## Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -46,6 +45,7 @@ I believe that when engineers don’t find problems, we create our own and then 
 ![C Language](https://img.shields.io/badge/C-⭐⭐⭐-0d1117?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-⭐⭐⭐⭐-161b22?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+# Personal Live Projects
 ## My Very Own Featured AI Counselling Project: Mercy AI
 <p align="center">
   <b>Mercy AI</b> is an AI-powered mental health counseling assistant designed by me to give users an idea of what counseling is like. instead of taking a real course or session at first its always better for us to try what counselling sessions are about. It’s a user-friendly, interactive experience that helps break the initial barrier to mental wellness through conversational AI.<br><br>
